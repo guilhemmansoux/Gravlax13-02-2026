@@ -8,12 +8,9 @@ You are know on **the second step** of this marvelous sidequest...
 
 You must brace yourself for the upcoming challenges...
 
-
+---
 
 If you feel up to it...
 Follow this dark link...
 
 <a href="https://github.com/hughdmr/TestAntigravity" style="color: inherit; text-decoration: none;">Follow this mysterious link...</a>
-
----
-
